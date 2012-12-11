@@ -1,0 +1,72 @@
+body {
+	color: #4F4F4F;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	margin:0;
+	padding:0;
+	background-color:#ffffff;}
+a, img {
+    border:none;
+}
+	
+h1 {color:#660000;
+	font-family: arial,helvetica,sans-serif;
+/* font-family:Georgia,"Times New Roman",Times,serif; */
+font-size:200%;
+}
+h2 {color:#660000;
+	font-family: arial,helvetica,sans-serif;
+/* font-family:Georgia,"Times New Roman",Times,serif; */
+font-size:150%;
+}
+h3 {color:#660000;
+	font-family: arial,helvetica,sans-serif;
+/* font-family:Georgia,"Times New Roman",Times,serif; */
+font-size:120%;
+}
+#main {
+	width: auto;
+/*	width: 1000px; */
+	}
+.center {
+	text-align: center;
+	}
+.home {
+	background-color: #D9E2F3;
+		}
+.winter {
+background-color: #B8CDF9;
+		}
+.summer {
+background-color: #F7F079;
+		}	
+.services {
+background-color: #FAB8A6;
+		}
+.dining {
+background-color: #F0BEE6;
+		}
+.lodging {
+background-color: #F7A85B;
+		}
+.white {
+background-color: white;
+		}
+.feedback {
+font-size: 80%;
+		}
+.feedback-form {
+width: auto;;
+margin-left: auto;
+margin-right: auto;
+		}
+td {
+vertical-align:top;
+}
+#footer {
+background-color: #d7d7d7;
+	width: auto;
+/*	width: 1000px; */
+	text-align: center;
+}
+	
